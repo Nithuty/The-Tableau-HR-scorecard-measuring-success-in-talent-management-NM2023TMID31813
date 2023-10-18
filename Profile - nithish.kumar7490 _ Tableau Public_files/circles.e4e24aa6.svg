@@ -1,0 +1,43 @@
+<svg width="1440" height="168" viewBox="0 0 1440 168" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="168">
+    <rect width="1440" height="168" fill="white"/>
+  </mask>
+  <g mask="url(#mask0)">
+    <rect width="1440" height="168" fill="transparent"/>
+    <g opacity="0.4">
+      <circle cx="579.625" cy="3.625" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="678.208" cy="29.6249" r="33.0417" fill="white" fill-opacity="0.5"/>
+      <circle cx="776.792" cy="29.625" r="40.625" fill="white" fill-opacity="0.4"/>
+      <circle cx="875.375" cy="59.9583" r="40.625" fill="white" fill-opacity="0.5"/>
+      <circle cx="973.958" cy="4.70825" r="34.125" fill="white" fill-opacity="0.5"/>
+      <circle cx="973.958" cy="109.792" r="30.875" fill="white" fill-opacity="0.4"/>
+      <circle cx="973.958" cy="35.0417" r="30.875" fill="white" fill-opacity="0.4"/>
+      <circle cx="973.958" cy="142.292" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1072.54" cy="29.625" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1072.54" cy="85.9583" r="35.2083" fill="white" fill-opacity="0.4"/>
+      <circle cx="1072.54" cy="150.958" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1171.12" cy="94.625" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1172.21" cy="63.2084" r="26.5417" fill="white" fill-opacity="0.3"/>
+      <circle cx="1269.71" cy="29.6249" r="33.0417" fill="white" fill-opacity="0.4"/>
+      <circle cx="1269.71" cy="3.625" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1368.29" cy="29.6249" r="33.0417" fill="white" fill-opacity="0.3"/>
+      <circle cx="1368.29" cy="133.625" r="33.0417" fill="white" fill-opacity="0.3"/>
+      <circle cx="1466.88" cy="61.0417" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1466.87" cy="37.2084" r="33.0417" fill="white" fill-opacity="0.3"/>
+      <circle cx="579.625" cy="85.9583" r="31.9583" fill="white" fill-opacity="0.5"/>
+      <circle cx="678.208" cy="134.708" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="776.792" cy="102.208" r="27.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="579.625" cy="167.208" r="40.625" fill="white" fill-opacity="0.5"/>
+      <circle cx="678.208" cy="167.208" r="33.0417" fill="white" fill-opacity="0.4"/>
+      <circle cx="776.792" cy="167.208" r="37.375" fill="white" fill-opacity="0.5"/>
+      <circle cx="875.375" cy="120.625" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1072.54" cy="167.208" r="40.625" fill="white" fill-opacity="0.5"/>
+      <circle cx="1171.12" cy="167.208" r="40.625" fill="white" fill-opacity="0.5"/>
+      <circle cx="1269.71" cy="167.208" r="33.0417" fill="white" fill-opacity="0.5"/>
+      <circle cx="1269.71" cy="142.292" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1368.29" cy="101.125" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1466.88" cy="167.208" r="40.625" fill="white" fill-opacity="0.3"/>
+      <circle cx="1171.12" cy="-36.4583" r="40.625" fill="white" fill-opacity="0.3"/>
+    </g>
+  </g>
+</svg>
